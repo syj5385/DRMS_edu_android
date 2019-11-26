@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.drms.drmakersystem"
+    android:versionCode="110"
+    android:versionName="1.1.0">
+
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE"/>
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Activities.MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".Activities.HomeActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".Activities.EducationActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".Activities.EduSelectActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".Activities.Level1Activity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".Activities.Level2Activity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".Activities.DRSexplainActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".Lev1_Controller.Cont1_1_Activity"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name=".Lev1_Controller.Cont1_2_Activity"
+            android:screenOrientation="landscape">
+        </activity>
+
+        <activity
+            android:name=".Lev1_Controller.Cont1_3_Activity"
+            android:screenOrientation="landscape">
+        </activity>
+
+        <activity
+            android:name=".Lev1_Controller.Cont1_4_Activity"
+            android:screenOrientation="landscape">
+        </activity>
+
+        <activity android:name=".Lev1_Controller.Cont1_5_Activity"
+            android:screenOrientation="landscape">
+
+        </activity>
+
+        <activity android:name=".Lev1_Controller.Cont1_6_Activity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".Lev1_Controller.Cont1_7_Activity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".Lev1_Controller.Cont1_8_Activity"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name=".Lev1_Controller.Cont1_9_Activity"
+            android:screenOrientation="landscape">
+
+        </activity>
+
+        <activity
+            android:name=".Lev1_1_Controller.Cont1_1_1_Activity"
+            android:screenOrientation="landscape">
+
+        </activity>
+
+        <activity
+            android:name=".Lev1_1_Controller.Cont1_1_2_Activity"
+            android:screenOrientation="landscape">
+
+        </activity>
+
+        <activity
+            android:name=".Lev1_1_Controller.Cont1_1_3_Activity"
+            android:screenOrientation="landscape">
+
+        </activity>
+
+        <activity
+            android:name=".Lev2_Controller.Cont2_2_Activity"
+            android:screenOrientation="landscape"/>
+
+        <activity android:name=".Lev2_Controller.Cont2_3_Activity"
+            android:screenOrientation="portrait"/>
+
+
+        <activity
+            android:name=".Lev2_Controller.Cont2_4_Activity"
+            android:screenOrientation="landscape">
+
+        </activity>
+
+        <activity
+            android:name=".Lev2_Controller.Cont2_5_Activity"
+            android:screenOrientation="landscape">
+        </activity>
+
+        <activity
+            android:name=".Lev2_Controller.Cont2_6_Activity"
+            android:screenOrientation="landscape">
+        </activity>
+
+        <activity
+            android:name=".Lev2_Controller.Cont2_8_Activity"
+            android:screenOrientation="landscape">
+        </activity>
+
+        <activity
+            android:name=".Lev2_Controller.Cont2_9_Activity"
+            android:screenOrientation="landscape">
+
+        </activity>
+
+        <activity
+            android:name=".Lev2_Controller.Cont2_10_Activity"
+            android:screenOrientation="landscape">
+
+        </activity>
+
+        <activity
+            android:name=".Lev2_Controller.Cont2_11_Activity"
+            android:screenOrientation="landscape">
+
+
+        </activity>
+
+        <activity
+            android:name=".Drone_Controller.ACCJoystick"
+            android:screenOrientation="landscape">
+
+        </activity>
+
+        <activity
+            android:name=".Drone_Controller.DualJoystick"
+            android:screenOrientation="landscape">
+
+        </activity>
+
+        <activity
+            android:name=".Drone_Controller.SingleJoystick"
+            android:screenOrientation="portrait">
+
+        </activity>
+
+        <activity
+            android:name=".Drone_Controller.Setting_Activity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden">
+
+        </activity>
+
+        <activity android:name=".Drone_Controller.UploadActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".Activities.DRS_uploadExplainActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".Activities.DroneExplainActivity"
+            android:screenOrientation="portrait">
+
+        </activity>
+
+        <activity
+            android:name=".Communication.DeviceListActivity"
+            android:screenOrientation="landscape">
+        </activity>
+
+        <activity android:name=".Activities.ContHelp_1Activity"
+            android:screenOrientation="landscape"/>
+
+        <activity android:name=".Activities.ContHelp_2Activity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".Activities.ContHelp_3Activity"
+            android:screenOrientation="landscape"/>
+
+
+
+    </application>
+
+
+
+</manifest>

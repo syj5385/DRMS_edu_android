@@ -1,0 +1,4 @@
+#Wed Oct 25 18:00:42 KST 2017
+base.0=C\:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(Education)\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(Education)\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

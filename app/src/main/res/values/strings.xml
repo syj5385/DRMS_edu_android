@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">DRMS(edu)</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="aux1">AUX1</string>
+    <string name="aux2">AUX2</string>
+    <string name="aux3">AUX3</string>
+    <string name="aux4">AUX4</string>
+    <string name="connectionStatus">Status</string>
+
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devicees</string>
+    <string name="none_found"></string>
+
+
+    <string name="switchModeBtn">Mode</string>
+    <string name="menu">Menu</string>
+
+    <style name="SpinnerStyle" parent="@android:style/Widget.Spinner">
+        <item name="android:background">@android:drawable/btn_default</item>
+    </style>
+    <string name="signal_strength">Signal Strength</string>
+    <string name="phone_heading">Phone Heading</string>
+
+    <string name="mode_joystick">MODO JOYSTICK</string>
+    <string name="mode_accel">MODO ONE HAND</string>
+    <string name="message_is_flying">El dron esta volando. Baja el throttle a 1100.</string>
+
+    <string name="throttle_contents">DRS모형을 컨트롤 하기 위해 사용되는 쓰로틀입니다.</string>
+    <string name="speed_contents">DRS 모형이 작동하는 속도를 설정합니다.</string>
+    <string name="reset_contents">DRS 컨트롤러를 초기화 합니다. 컨트롤러가 정상적으로 동작하지 않거나, 컨트롤러에 펌웨어를 업로드 할 때 사용합니다 </string>
+    <string name="bluetooth_contents">컨트롤러와 DRS모형을 최초로 연결할 때 사용합니다. 한번 연결된 DRS모형은 컨트롤러의 전원을 켰을 때 자동으로 연결됩니다. </string>
+    <string name="power_contents">DRS 모형의 동작하기 전 시동을 켜거나 동작을 완료한 후 시동을 끌 때 사용하는 버튼입니다. </string>
+    <string name="tream_contents">드론 컨트롤러를 사용할 때 트림을 조정하기 위하여 사용합니다. 드론 모형이 아닐 경우에는 모형을 컨트롤하는 버튼으로도 사용됩니다.</string>
+    <string name="digit_btn_contents">DRS 모형을 컨트롤 하기 위한 버튼입니다 </string>
+    <string name="lcd_contents">DRS 모형을 작동 시킬 때, 컨트롤러와 DRS 모형의 정보를 표한하는 LCD창입니다.</string>
+    <string name="btmode_contents">컨트롤러를 조종기 모드 또는 펌웨어 업로드 모드로 변경하는 버튼입니다.</string>
+    <string name="lcdchange_contents">DRS모형에 대한 정보를 표현하는 LCD의 내용을 변경하는 버튼입니다.</string>
+
+    <string name="nothing">기능이 존재하지 않습니다.</string>
+
+
+    <string name="lev2_r2_thro_content">기능이 존재하지 않습니다.</string>
+    <string name="lev2_r2_speed_content">기능이 존재하지 않습니다.</string>
+    <string name="lev2_r2_tream_content">각각의 복권 당첨 룰렛을 회전시킵니다. </string>
+    <string name="lev2_r2_digit_btn_content"> 기능이 없습니다. </string>
+    <string name="lev2_r2_lcd_change_contents">LCD에 나타나는 내용을 변경합니다.</string>
+
+    <string name="lev2_r3_thro_content">드론을 조종할 때 쓰로틀은 mode1방식으로 동작합니다.</string>
+    <string name="lev2_r3_speed_content">드론이 비행하는 속도를 조절합니다. \n FAST / SLOW</string>
+    <string name="lev2_r3_tream_content">드론의 roll, pitch, yaw에 대한 트림을 조절합니다. </string>
+    <string name="lev2_r3_digit_btn_content"> A : 기능 없음 \n B : 기능 없음 \n C : 트림 리셋</string>
+    <string name="lev2_r3_lcd_change_contents">LCD에 나타나는 내용을 변경합니다.</string>
+
+    <string name="lev2_r4_thro_content">A : 쓰로틀을 들어올리면 기차가 빠르게 움직입니다.\nB : 쓰로틀을 좌우로 움직이면 기차가 방향전환을 합니다.</string>
+    <string name="lev2_r4_speed_content">기차가 방향전환 하는 속도를 조절합니다. \n FAST / SLOW</string>
+    <string name="lev2_r4_tream_content">기능이 존재하지 않습니다. </string>
+    <string name="lev2_r4_digit_btn_content"> 기능이 존재하지 않습니다.</string>
+    <string name="lev2_r4_lcd_change_contents">LCD에 나타나는 내용을 변경합니다.</string>
+
+    <string name="lev2_r5_thro_content">드론을 조종할 때 쓰로틀은 mode1방식으로 동작합니다.</string>
+    <string name="lev2_r5_speed_content">드론이 비행하는 속도를 조절합니다. \n FAST / SLOW</string>
+    <string name="lev2_r5_tream_content">드론의 roll, pitch, yaw에 대한 트림을 조절합니다. </string>
+    <string name="lev2_r5_digit_btn_content"> A : 기능 없음 \n B : 기능 없음 \n C : 트림 리셋</string>
+    <string name="lev2_r5_lcd_change_contents">LCD에 나타나는 내용을 변경합니다.</string>
+
+    <string name="lev2_r6_thro_content">기능이 존재하지 않습니다. </string>
+    <string name="lev2_r6_speed_content">기능이 존재하지 않습니다.</string>
+    <string name="lev2_r6_tream_content">각각의 동물 그림을 회전시킵니다. </string>
+    <string name="lev2_r6_digit_btn_content">기능이 존재하지 않습니다.</string>
+    <string name="lev2_r6_lcd_change_contents">LCD에 나타나는 내용을 변경합니다.</string>
+
+
+    <string name="lev2_r8_thro_content">드론을 조종할 때 쓰로틀은 mode1방식으로 동작합니다.</string>
+    <string name="lev2_r8_speed_content">드론이 비행하는 속도를 조절합니다. \n FAST / SLOW</string>
+    <string name="lev2_r8_tream_content">드론의 roll, pitch, yaw에 대한 트림을 조절합니다. </string>
+    <string name="lev2_r8_digit_btn_content"> A : 기능 없음 \n B : 기능 없음 \n C : 트림 리셋</string>
+    <string name="lev2_r8_lcd_change_contents">LCD에 나타나는 내용을 변경합니다.</string>
+
+    <string name="lev2_r9_thro_content">드론을 조종할 때 쓰로틀은 mode1방식으로 동작합니다.</string>
+    <string name="lev2_r9_speed_content">드론이 비행하는 속도를 조절합니다. \n FAST / SLOW</string>
+    <string name="lev2_r9_tream_content">드론의 roll, pitch, yaw에 대한 트림을 조절합니다. </string>
+    <string name="lev2_r9_digit_btn_content"> A : 기능 없음 \n B : 기능 없음 \n C : 트림 리셋</string>
+    <string name="lev2_r9_lcd_change_contents">LCD에 나타나는 내용을 변경합니다.</string>
+
+    <string name="lev2_r10_thro_content">드론을 조종할 때 쓰로틀은 mode1방식으로 동작합니다.</string>
+    <string name="lev2_r10_speed_content">드론이 비행하는 속도를 조절합니다. \n FAST / SLOW</string>
+    <string name="lev2_r10_tream_content">드론의 roll, pitch, yaw에 대한 트림을 조절합니다. </string>
+    <string name="lev2_r10_digit_btn_content"> A : 기능 없음 \n B : 기능 없음 \n C : 트림 리셋</string>
+    <string name="lev2_r10_lcd_change_contents">LCD에 나타나는 내용을 변경합니다.</string>
+
+    <string name="lev2_r11_thro_content">드론을 조종할 때 쓰로틀은 mode1방식으로 동작합니다.</string>
+    <string name="lev2_r11_speed_content">드론이 비행하는 속도를 조절합니다. \n FAST / SLOW</string>
+    <string name="lev2_r11_tream_content">드론의 roll, pitch, yaw에 대한 트림을 조절합니다. </string>
+    <string name="lev2_r11_digit_btn_content"> A : 기능 없음 \n B : 기능 없음 \n C : 트림 리셋</string>
+    <string name="lev2_r11_lcd_change_contents">LCD에 나타나는 내용을 변경합니다.</string>
+
+    <string name="lev2_r12_thro_content">드론을 조종할 때 쓰로틀은 mode1방식으로 동작합니다.</string>
+    <string name="lev2_r12_speed_content">드론이 비행하는 속도를 조절합니다. \n FAST / SLOW</string>
+    <string name="lev2_r12_tream_content">드론의 roll, pitch, yaw에 대한 트림을 조절합니다. </string>
+    <string name="lev2_r12_digit_btn_content"> A : 기능 없음 \n B : 기능 없음 \n C : 트림 리셋</string>
+    <string name="lev2_r12_lcd_change_contents">LCD에 나타나는 내용을 변경합니다.</string>
+
+
+</resources>

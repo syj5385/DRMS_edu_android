@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "M:\\DRMS\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\연구실\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\2df75bcf19374cbaf7f159506f5f91fa\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\DRMS\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\연구실\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\2df75bcf19374cbaf7f159506f5f91fa\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(Education)Project\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(Education)Project\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "M:\\DRMS\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\연구실\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\2df75bcf19374cbaf7f159506f5f91fa\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(Education)Project\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "M:\\DRMS\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\연구실\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\2df75bcf19374cbaf7f159506f5f91fa\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Volumes\\DRMS\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(Education)Project\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Volumes\\DRMS\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(Education)Project\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Volumes\\DRMS\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "M:\\DRMS\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\연구실\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\2df75bcf19374cbaf7f159506f5f91fa\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\DRMS\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\연구실\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\2df75bcf19374cbaf7f159506f5f91fa\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\C:\\Users\\JJun\\Desktop\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\C:\\Users\\JJun\\.android\\build-cache\\eea8b3132ac55b18f8472520bb86528eea29f79e\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(Education)Project\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\C:\\Users\\JJun\\Desktop\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\C:\\Users\\JJun\\.android\\build-cache\\eea8b3132ac55b18f8472520bb86528eea29f79e\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\C:\\Users\\JJun\\Desktop\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\C:\\Users\\JJun\\.android\\build-cache\\eea8b3132ac55b18f8472520bb86528eea29f79e\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\DRMS\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\연구실\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\2df75bcf19374cbaf7f159506f5f91fa\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Volumes\\DRMS\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(Education)Project\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Volumes\\DRMS\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Volumes\\DRMS\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Volumes\\DRMS\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\C:\\Users\\JJun\\Desktop\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\C:\\Users\\JJun\\.android\\build-cache\\eea8b3132ac55b18f8472520bb86528eea29f79e\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Volumes\\DRMS\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "M:\\DRMS\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\연구실\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\2df75bcf19374cbaf7f159506f5f91fa\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(Education)Project\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\C:\\Users\\JJun\\Desktop\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\C:\\Users\\JJun\\.android\\build-cache\\eea8b3132ac55b18f8472520bb86528eea29f79e\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\DRMS\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\연구실\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\2df75bcf19374cbaf7f159506f5f91fa\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\DRMS\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\연구실\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\2df75bcf19374cbaf7f159506f5f91fa\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\DRMS\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\연구실\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\2df75bcf19374cbaf7f159506f5f91fa\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "M:\\DRMS\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\연구실\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\2df75bcf19374cbaf7f159506f5f91fa\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(Education)Project\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "M:\\DRMS\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\연구실\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\2df75bcf19374cbaf7f159506f5f91fa\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\DRMS\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\연구실\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\2df75bcf19374cbaf7f159506f5f91fa\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\C:\\Users\\JJun\\Desktop\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\C:\\Users\\JJun\\.android\\build-cache\\eea8b3132ac55b18f8472520bb86528eea29f79e\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\DRMS\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\연구실\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\2df75bcf19374cbaf7f159506f5f91fa\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Volumes\\DRMS\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\C:\\Users\\JJun\\Desktop\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\C:\\Users\\JJun\\.android\\build-cache\\eea8b3132ac55b18f8472520bb86528eea29f79e\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\C:\\Users\\JJun\\Desktop\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\C:\\Users\\JJun\\.android\\build-cache\\eea8b3132ac55b18f8472520bb86528eea29f79e\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\DRMS\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\연구실\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\2df75bcf19374cbaf7f159506f5f91fa\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "M:\\DRMS\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\연구실\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\2df75bcf19374cbaf7f159506f5f91fa\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\DRMS\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\연구실\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\2df75bcf19374cbaf7f159506f5f91fa\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(Education)Project\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "M:\\DRMS\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\연구실\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\2df75bcf19374cbaf7f159506f5f91fa\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Volumes\\DRMS\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\Users\\yeongjunsong\\.android\\build-cache\\779bea70b2ad87250938945f1ac5e15d1aaba9a2\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\C:\\Users\\JJun\\Desktop\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\C:\\Users\\JJun\\.android\\build-cache\\eea8b3132ac55b18f8472520bb86528eea29f79e\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\C:\\Users\\JJun\\Desktop\\DRMSandroid\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\Users\\yeongjunsong\\Desktop\\DRMSandroid\\DRMS(Education)\\C:\\Users\\JJun\\.android\\build-cache\\eea8b3132ac55b18f8472520bb86528eea29f79e\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "M:\\DRMS\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\연구실\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\2df75bcf19374cbaf7f159506f5f91fa\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(Education)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\af7bba963bc667df0f53632d7bdba33b873a720e\\output\\res\\anim\\abc_slide_out_top.xml"
+    }
+]

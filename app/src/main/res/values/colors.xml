@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D5D5D5</color>
+    <color name="colorPrimaryDark">#D5D5D5</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorinformation">#B5B5B6</color>
+
+    <color name="topicColor">#73503C</color>
+    <color name="textColor">#D5D5D5</color>
+    <color name="textColor1">#8C8C8C</color>
+    <color name="textColor2">#000000</color>
+
+    <color name="dialogColor">#C0BFBE</color>
+
+    <color name="roundtopic">#FFBB00</color>
+
+    <color name="dark">#000000</color>
+    <color name="bright">#ffffff</color>
+
+    <color name="background">#806d84</color>
+    <color name="colorAccent1">#e08141</color>
+    <color name="toggle_pressed">#68c917</color>
+    <color name="toggle_pressed_border">#519c11</color>
+    <color name="toggle_unpressed">#b71c1c</color>
+    <color name="toggle_unpressed_border">#a61919</color>
+    <color name="colorJoystickBackground2">#9E9E9E</color>
+    <color name="colorJoystickBackgroundDark2">#424242</color>
+    <color name="colorJoystickButton2Pressed">#76FF03</color>
+    <color name="colorJoystickButton2DarkPressed">#64DD17</color>
+    <color name="colorJoystickButton2">#D50000</color>
+    <color name="bt_color">#0A3D91</color>
+    <color name="colorJoystickButton2Dark">#B71C1C</color>
+
+    <color name="RED_COLOR">#FF0000</color>
+
+</resources>

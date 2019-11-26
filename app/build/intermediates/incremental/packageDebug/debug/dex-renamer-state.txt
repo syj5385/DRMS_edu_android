@@ -1,0 +1,4 @@
+#Mon Feb 26 12:18:33 KST 2018
+base.0=M\:\\DRMS\\DRMS Program\\DRMS(Education)Project\\Android\\DRMS(Education)\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
