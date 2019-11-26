@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="splash_color0">#3DB7CC</color>
+
+    <color name="main_color0">#497497</color>
+
+    <color name="select_color0">#D6EBEC</color>
+    <color name="select_color1">#008299</color>
+    <color name="select_color2">#FFA7A7</color>
+    <color name="select_color3">#2F9D27</color>
+
+    <color name="exec_color0">#00D2FF</color>
+
+    <color name="controller_color0">#00D2FF</color>
+
+    <color name="upload_color0">#ff5200</color>
+    <color name="upload_color1">#f15a24</color>
+    <color name="upload_color2">#ffe400</color>
+
+    <color name="checkpermission_color0">#F2CB61</color>
+
+    <color name="notice_color0">#ffe400</color>
+    <color name="notice_color1">#3DB7CC</color>
+
+    <color name="setting_color0">#002266</color>
+
+    <color name="cont2_1_color0">#3DB7CC</color>
+
+    <color name="cont2_8_color0">#29ABE2</color>
+    <color name="cont2_8_color1">#7AC943</color>
+    <color name="cont2_8_color2">#FF7DF6</color>
+
+    <color name="cont3_1_color0">#006CBF</color>
+
+
+</resources>
