@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/cont3_1_color0">
+
+   <ImageView
+       android:layout_width="200dp"
+       android:layout_height="200dp"
+       app:layout_constraintRight_toRightOf="parent"
+       app:layout_constraintBottom_toBottomOf="parent"
+       app:layout_constraintLeft_toLeftOf="parent"
+       app:layout_constraintTop_toTopOf="parent"
+       android:id="@+id/animal"
+       android:src="@drawable/cont3_1_image1"/>
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:src="@drawable/cont3_1_image2"
+        app:layout_constraintRight_toRightOf="@id/animal"
+        app:layout_constraintTop_toTopOf="@id/animal"
+        android:layout_marginRight="160dp"
+        android:id="@+id/left_top"/>
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:src="@drawable/cont3_1_image2"
+        app:layout_constraintLeft_toLeftOf="@id/animal"
+        app:layout_constraintTop_toTopOf="@id/animal"
+        android:layout_marginLeft="160dp"
+        android:id="@+id/right_top"/>
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:src="@drawable/cont3_1_image2"
+        app:layout_constraintRight_toRightOf="@id/animal"
+        app:layout_constraintTop_toTopOf="@id/animal"
+        android:layout_marginRight="150dp"
+        android:layout_marginTop="145dp"
+        android:id="@+id/left_Bottom"/>
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:src="@drawable/cont3_1_image2"
+        app:layout_constraintLeft_toLeftOf="@id/animal"
+        app:layout_constraintTop_toTopOf="@id/animal"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="145dp"
+        android:id="@+id/right_Bottom"/>
+
+
+</android.support.constraint.ConstraintLayout>

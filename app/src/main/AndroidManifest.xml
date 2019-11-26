@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.drms.drmakersystem">
+
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <uses-feature android:name="android.hardware.usb.host"
+        android:required="true"/>
+
+    <application
+        android:name=".Application.DRMS"
+        android:allowBackup="true"
+        android:icon="@drawable/icon_edu"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/icon_edu"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:hardwareAccelerated="false"
+        android:largeHeap="true">
+
+        <activity android:name=".Activity.SplashActivity"
+            android:theme="@style/SplashTheme"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".Activity.NoticeActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoticeTheme">
+
+        </activity>
+
+        <activity android:name=".Activity.CheckPermissionActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme">
+
+        </activity>
+
+
+        <activity android:name=".Activity.MainActivity"
+            android:theme="@style/MainTheme"
+            android:screenOrientation="portrait">
+
+
+        </activity>
+
+        <activity android:name=".Activity.EducationAcitivty"
+            android:theme="@style/MainTheme"
+            android:screenOrientation="portrait">
+
+        </activity>
+
+        <activity android:name=".Activity.SelectionActivity"
+            android:theme="@style/SplashTheme"
+            android:screenOrientation="portrait">
+
+        </activity>
+
+        <activity android:name=".Activity.ExecuteActivity"
+            android:theme="@style/SplashTheme"
+            android:screenOrientation="portrait">
+
+        </activity>
+
+        <activity android:name=".Communication.Bluetooth.ConnectionActivity"
+            android:theme="@style/translucent"
+            android:screenOrientation="landscape">
+
+        </activity>
+
+        <activity android:name=".Activity.ControllerProto"
+            android:theme="@style/SplashTheme"
+            android:screenOrientation="landscape">
+
+        </activity>
+
+        <activity android:name=".Activity.Level2Controller.Cont2_1Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme">
+
+        </activity>
+
+        <activity android:name=".Activity.Level2Controller.Cont2_2Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme">
+
+        </activity>
+
+        <activity android:name=".Activity.Level2Controller.Cont2_3Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme">
+
+        </activity>
+
+        <activity android:name=".Activity.Level2Controller.Cont2_4Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme">
+        </activity>
+
+        <activity android:name=".Activity.Level2Controller.Cont2_5Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme">
+
+        </activity>
+
+        <activity android:name=".Activity.Level2Controller.Cont2_6Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme">
+
+        </activity>
+
+        <activity android:name=".Activity.Level2Controller.Cont2_7Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme">
+
+        </activity>
+
+        <activity android:name=".Activity.Level2Controller.Cont2_8Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme">
+
+
+
+        </activity>
+
+        <activity android:name=".Activity.Level2Controller.Cont2_9Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme">
+
+        </activity>
+
+        <activity android:name=".Activity.Level2Controller.Cont2_10Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme">
+
+        </activity>
+
+        <activity android:name=".Activity.Level2Controller.Cont2_11Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme">
+
+        </activity>
+
+        <activity android:name=".Activity.Level2Controller.Cont2_12Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme">
+        </activity>
+
+        <activity android:name=".Activity.Level3Controller.Level3_Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme">
+
+        </activity>
+
+        <activity android:name=".Activity.Level3Controller.Level3_Drs_Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme">
+
+        </activity>
+
+        <activity android:name=".Activity.WaitActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/wait_theme">
+
+        </activity>
+
+        <service
+            android:name=".Communication.UsbSerial.UsbService"
+            android:enabled="true"
+            android:exported="false">
+
+        </service>
+
+        <provider
+            android:authorities="${applicationId}.provider"
+            android:name="android.support.v4.content.FileProvider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource ="@xml/provider_paths"/>
+
+        </provider>
+
+
+    </application>
+
+</manifest>

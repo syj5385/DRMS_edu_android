@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">DRMS(edu)</string>
+
+    <string name="level1_1">빙글빙글 팽이</string>
+    <string name="level1_2">기울기 선풍기</string>
+    <string name="level1_3">같은숫자 찾기</string>
+    <string name="level1_4">핸드 믹서기</string>
+    <string name="level1_5">스노우 모빌</string>
+    <string name="level1_6">쿼드 드론</string>
+    <string name="level1_7">컬링 게임</string>
+    <string name="level1_8">핸드 드라이기</string>
+    <string name="level1_9">동물 보호 드론</string>
+    <string name="level1_10">스타쉽 골키퍼</string>
+    <string name="level1_11">잠자리 경주</string>
+    <string name="level1_12">밀어내기 게임</string>
+
+    <string name="level2_1">두더지를 잡아라</string>
+    <string name="level2_2">나는 사격왕</string>
+    <string name="level2_3">표정 만들기</string>
+    <string name="level2_4">기차</string>
+    <string name="level2_5">오르골</string>
+    <string name="level2_6">헥사드론</string>
+    <string name="level2_7">복권 당첨</string>
+    <string name="level2_8">착시 현상</string>
+    <string name="level2_9">스피드 자동차</string>
+    <string name="level2_10">비행기</string>
+    <string name="level2_11">트렉터</string>
+    <string name="level2_12">바나나 보트</string>
+
+    <string name="level3_1">소금쟁이</string>
+    <string name="level3_2">포춘 쿠키</string>
+    <string name="level3_3">응급 드론</string>
+    <string name="level3_4">청소기</string>
+    <string name="level3_5">양산</string>
+    <string name="level3_6">호버</string>
+    <string name="level3_7">구기 드론</string>
+    <string name="level3_8">모노레일</string>
+    <string name="level3_9">택시</string>
+    <string name="level3_10">관람차</string>
+
+
+</resources>

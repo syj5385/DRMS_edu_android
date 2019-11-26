@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Sat Jul 27 10:37:26 KST 2019
+2.base=/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(education)/Android/DRMS(Education)_USB/app/build/intermediates/transforms/dexMerger/debug/12
+0.path=classes.dex
+2.baseType=DIRECTORY
+3.base=/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(education)/Android/DRMS(Education)_USB/app/build/intermediates/transforms/dexMerger/debug/13
+2.set=DEX
+1.path=classes.dex
+4.base=/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(education)/Android/DRMS(Education)_USB/app/build/intermediates/transforms/dexMerger/debug/11
+count=5
+2.path=classes.dex
+4.set=DEX
+3.path=classes.dex
+3.baseType=DIRECTORY
+1.set=DEX
+4.path=classes.dex
+1.baseType=DIRECTORY
+0.base=/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(education)/Android/DRMS(Education)_USB/app/build/intermediates/transforms/dexMerger/debug/14
+0.baseType=DIRECTORY
+3.set=DEX
+1.base=/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(education)/Android/DRMS(Education)_USB/app/build/intermediates/transforms/dexMerger/debug/15
+4.baseType=DIRECTORY
+0.set=DEX

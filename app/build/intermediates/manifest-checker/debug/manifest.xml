@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.drms.drmakersystem"
+    android:versionCode="201"
+    android:versionName="2.0.1" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="28" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-feature
+        android:name="android.hardware.usb.host"
+        android:required="true" />
+
+    <application
+        android:name="com.drms.drmakersystem.Application.DRMS"
+        android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:hardwareAccelerated="false"
+        android:icon="@drawable/icon_edu"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@drawable/icon_edu"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.drms.drmakersystem.Activity.SplashActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.drms.drmakersystem.Activity.NoticeActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoticeTheme" >
+        </activity>
+        <activity
+            android:name="com.drms.drmakersystem.Activity.CheckPermissionActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme" >
+        </activity>
+        <activity
+            android:name="com.drms.drmakersystem.Activity.MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/MainTheme" >
+        </activity>
+        <activity
+            android:name="com.drms.drmakersystem.Activity.EducationAcitivty"
+            android:screenOrientation="portrait"
+            android:theme="@style/MainTheme" >
+        </activity>
+        <activity
+            android:name="com.drms.drmakersystem.Activity.SelectionActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme" >
+        </activity>
+        <activity
+            android:name="com.drms.drmakersystem.Activity.ExecuteActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme" >
+        </activity>
+        <activity
+            android:name="com.drms.drmakersystem.Communication.Bluetooth.ConnectionActivity"
+            android:screenOrientation="landscape"
+            android:theme="@style/translucent" >
+        </activity>
+        <activity
+            android:name="com.drms.drmakersystem.Activity.ControllerProto"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme" >
+        </activity>
+        <activity
+            android:name="com.drms.drmakersystem.Activity.Level2Controller.Cont2_1Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme" >
+        </activity>
+        <activity
+            android:name="com.drms.drmakersystem.Activity.Level2Controller.Cont2_2Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme" >
+        </activity>
+        <activity
+            android:name="com.drms.drmakersystem.Activity.Level2Controller.Cont2_3Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme" >
+        </activity>
+        <activity
+            android:name="com.drms.drmakersystem.Activity.Level2Controller.Cont2_4Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme" >
+        </activity>
+        <activity
+            android:name="com.drms.drmakersystem.Activity.Level2Controller.Cont2_5Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme" >
+        </activity>
+        <activity
+            android:name="com.drms.drmakersystem.Activity.Level2Controller.Cont2_6Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme" >
+        </activity>
+        <activity
+            android:name="com.drms.drmakersystem.Activity.Level2Controller.Cont2_7Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme" >
+        </activity>
+        <activity
+            android:name="com.drms.drmakersystem.Activity.Level2Controller.Cont2_8Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme" >
+        </activity>
+        <activity
+            android:name="com.drms.drmakersystem.Activity.Level2Controller.Cont2_9Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme" >
+        </activity>
+        <activity
+            android:name="com.drms.drmakersystem.Activity.Level2Controller.Cont2_10Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme" >
+        </activity>
+        <activity
+            android:name="com.drms.drmakersystem.Activity.Level2Controller.Cont2_11Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme" >
+        </activity>
+        <activity
+            android:name="com.drms.drmakersystem.Activity.Level2Controller.Cont2_12Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme" >
+        </activity>
+        <activity
+            android:name="com.drms.drmakersystem.Activity.Level3Controller.Level3_multi_Controller"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme" >
+        </activity>
+        <activity
+            android:name="com.drms.drmakersystem.Activity.Level3Controller.Level3_Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme" >
+        </activity>
+        <activity
+            android:name="com.drms.drmakersystem.Activity.WaitActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/wait_theme" >
+        </activity>
+
+        <service
+            android:name="com.drms.drmakersystem.Communication.UsbSerial.UsbService"
+            android:enabled="true"
+            android:exported="false" >
+        </service>
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.drms.drmakersystem.provider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.drms.drmakersystem.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>
