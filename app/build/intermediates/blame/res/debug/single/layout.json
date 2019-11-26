@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/activity_cont_2_4.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/activity_cont_2_4.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/11ef64453acfdf918125634dd8d53d52/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/11ef64453acfdf918125634dd8d53d52/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/notice_item.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/notice_item.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/11ef64453acfdf918125634dd8d53d52/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/soundsetting.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/soundsetting.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/11ef64453acfdf918125634dd8d53d52/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/activity_notice.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/activity_notice.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/activity_cont_2_8.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/activity_cont_2_8.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/custom1_item.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/custom1_item.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/activity_cont_2_3_2.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/activity_cont_2_3_2.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/activity_cont_2_2.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/activity_cont_2_2.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/activity_controller.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/activity_controller.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/activity_cont_2_5.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/activity_cont_2_5.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/activity_cont_2_12.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/activity_cont_2_12.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/activity_selection.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/activity_selection.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/filedownload.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/filedownload.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/main_setting_adapter.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/main_setting_adapter.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/activity_cont_2_7.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/activity_cont_2_7.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/activity_cont_2_10.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/activity_cont_2_10.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/activity_checkpermission.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/activity_checkpermission.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/11ef64453acfdf918125634dd8d53d52/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/custom2_item.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/custom2_item.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/11ef64453acfdf918125634dd8d53d52/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/activity_cont_2_1.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/activity_cont_2_1.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/66341db08019c156e6c88831fd0eb301/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/connectionlayout.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/connectionlayout.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/11ef64453acfdf918125634dd8d53d52/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/activity_cont_2_6.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/activity_cont_2_6.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/11ef64453acfdf918125634dd8d53d52/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/activity_cont_2_3.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/activity_cont_2_3.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/66341db08019c156e6c88831fd0eb301/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/activity_cont_2_11.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/activity_cont_2_11.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/progress.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/progress.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/paired_device.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/paired_device.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/11ef64453acfdf918125634dd8d53d52/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/activity_cont_2_9.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/activity_cont_2_9.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/custom3_item.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/custom3_item.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/tooltip.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/res/merged/debug/layout/activity_firmware.xml",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/res/layout/activity_firmware.xml"
+    }
+]

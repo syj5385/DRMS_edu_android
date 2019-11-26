@@ -1,0 +1,371 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:157:9-167:20
+	android:grantUriPermissions
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:161:13-47
+	android:authorities
+		INJECTED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:158:13-60
+	android:exported
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:160:13-37
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:159:13-67
+manifest
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:2:1-172:12
+INJECTED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:2:1-172:12
+INJECTED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:2:1-172:12
+INJECTED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:2:1-172:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jjun/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9dfb88d556b6969697d8604088236895/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/756d83c2e783d76fe056e2302b6e722a/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/903ce20ef420a3d88495507b0c0a1373/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8ffedf30039e17996f70fcb5dd9e7979/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/11ef64453acfdf918125634dd8d53d52/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c20a295978ebd753ffeeca820dc9d6ee/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/61408858eeeb9d8ae41dd11b1f034359/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d244a50fbff1d3d9fdadff66659504e3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/66341db08019c156e6c88831fd0eb301/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d1571bd54a65f6afe956e60b0fd9951e/AndroidManifest.xml:17:1-30:12
+INJECTED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:2:1-172:12
+INJECTED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:2:1-172:12
+INJECTED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:2:1-172:12
+	package
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:4:5-37
+		INJECTED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:2:1-172:12
+		INJECTED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:2:1-172:12
+		INJECTED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:7:5-73
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:7:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:11:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:12:22-63
+uses-permission#android.permission.INTERNET
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:13:22-64
+application
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:15:5-170:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jjun/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9dfb88d556b6969697d8604088236895/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jjun/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9dfb88d556b6969697d8604088236895/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/756d83c2e783d76fe056e2302b6e722a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/756d83c2e783d76fe056e2302b6e722a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/903ce20ef420a3d88495507b0c0a1373/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/903ce20ef420a3d88495507b0c0a1373/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8ffedf30039e17996f70fcb5dd9e7979/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8ffedf30039e17996f70fcb5dd9e7979/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/11ef64453acfdf918125634dd8d53d52/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/11ef64453acfdf918125634dd8d53d52/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c20a295978ebd753ffeeca820dc9d6ee/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c20a295978ebd753ffeeca820dc9d6ee/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/61408858eeeb9d8ae41dd11b1f034359/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/61408858eeeb9d8ae41dd11b1f034359/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d244a50fbff1d3d9fdadff66659504e3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d244a50fbff1d3d9fdadff66659504e3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/66341db08019c156e6c88831fd0eb301/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/66341db08019c156e6c88831fd0eb301/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d1571bd54a65f6afe956e60b0fd9951e/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d1571bd54a65f6afe956e60b0fd9951e/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:19:9-41
+	android:hardwareAccelerated
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:23:9-44
+	android:roundIcon
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:20:9-47
+	android:largeHeap
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:24:9-33
+	android:icon
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:18:9-42
+	android:allowBackup
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:22:9-40
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:16:9-41
+activity#com.drms.drmakersystem.Activity.SplashActivity
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:26:9-33:20
+	android:screenOrientation
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:28:13-49
+	android:theme
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:27:13-47
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:26:19-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:31:27-74
+activity#com.drms.drmakersystem.Activity.NoticeActivity
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:35:9-39:20
+	android:screenOrientation
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:36:13-49
+	android:theme
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:37:13-47
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:35:19-58
+activity#com.drms.drmakersystem.Activity.CheckPermissionActivity
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:41:9-45:20
+	android:screenOrientation
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:42:13-49
+	android:theme
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:43:13-47
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:41:19-67
+activity#com.drms.drmakersystem.Activity.MainActivity
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:48:9-51:20
+	android:screenOrientation
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:50:13-49
+	android:theme
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:49:13-45
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:48:19-56
+activity#com.drms.drmakersystem.Activity.EducationAcitivty
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:53:9-57:20
+	android:screenOrientation
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:55:13-49
+	android:theme
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:54:13-45
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:53:19-61
+activity#com.drms.drmakersystem.Activity.SelectionActivity
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:59:9-63:20
+	android:screenOrientation
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:61:13-49
+	android:theme
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:60:13-47
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:59:19-61
+activity#com.drms.drmakersystem.Activity.ExecuteActivity
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:65:9-69:20
+	android:screenOrientation
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:67:13-49
+	android:theme
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:66:13-47
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:65:19-59
+activity#com.drms.drmakersystem.Communication.ConnectionActivity
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:71:9-75:20
+	android:screenOrientation
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:73:13-50
+	android:theme
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:72:13-47
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:71:19-67
+activity#com.drms.drmakersystem.Activity.ControllerProto
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:77:9-81:20
+	android:screenOrientation
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:79:13-50
+	android:theme
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:78:13-47
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:77:19-59
+activity#com.drms.drmakersystem.Activity.Level2Controller.Cont2_1Activity
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:83:9-87:20
+	android:screenOrientation
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:84:13-50
+	android:theme
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:85:13-47
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:83:19-76
+activity#com.drms.drmakersystem.Activity.Level2Controller.Cont2_2Activity
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:89:9-93:20
+	android:screenOrientation
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:90:13-50
+	android:theme
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:91:13-47
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:89:19-76
+activity#com.drms.drmakersystem.Activity.Level2Controller.Cont2_3Activity
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:95:9-99:20
+	android:screenOrientation
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:96:13-50
+	android:theme
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:97:13-47
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:95:19-76
+activity#com.drms.drmakersystem.Activity.Level2Controller.Cont2_4Activity
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:101:9-104:20
+	android:screenOrientation
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:102:13-50
+	android:theme
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:103:13-47
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:101:19-76
+activity#com.drms.drmakersystem.Activity.Level2Controller.Cont2_5Activity
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:106:9-110:20
+	android:screenOrientation
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:107:13-50
+	android:theme
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:108:13-47
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:106:19-76
+activity#com.drms.drmakersystem.Activity.Level2Controller.Cont2_6Activity
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:112:9-116:20
+	android:screenOrientation
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:113:13-50
+	android:theme
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:114:13-47
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:112:19-76
+activity#com.drms.drmakersystem.Activity.Level2Controller.Cont2_7Activity
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:118:9-122:20
+	android:screenOrientation
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:119:13-50
+	android:theme
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:120:13-47
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:118:19-76
+activity#com.drms.drmakersystem.Activity.Level2Controller.Cont2_8Activity
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:124:9-130:20
+	android:screenOrientation
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:125:13-50
+	android:theme
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:126:13-47
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:124:19-76
+activity#com.drms.drmakersystem.Activity.Level2Controller.Cont2_9Activity
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:132:9-136:20
+	android:screenOrientation
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:133:13-50
+	android:theme
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:134:13-47
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:132:19-76
+activity#com.drms.drmakersystem.Activity.Level2Controller.Cont2_10Activity
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:138:9-142:20
+	android:screenOrientation
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:139:13-50
+	android:theme
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:140:13-47
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:138:19-77
+activity#com.drms.drmakersystem.Activity.Level2Controller.Cont2_11Activity
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:144:9-148:20
+	android:screenOrientation
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:145:13-50
+	android:theme
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:146:13-47
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:144:19-77
+activity#com.drms.drmakersystem.Activity.Level2Controller.Cont2_12Activity
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:150:9-155:20
+	android:screenOrientation
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:151:13-50
+	android:theme
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:152:13-47
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:150:19-77
+uses-sdk
+INJECTED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jjun/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9dfb88d556b6969697d8604088236895/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jjun/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9dfb88d556b6969697d8604088236895/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/756d83c2e783d76fe056e2302b6e722a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/756d83c2e783d76fe056e2302b6e722a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/903ce20ef420a3d88495507b0c0a1373/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/903ce20ef420a3d88495507b0c0a1373/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8ffedf30039e17996f70fcb5dd9e7979/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8ffedf30039e17996f70fcb5dd9e7979/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/11ef64453acfdf918125634dd8d53d52/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/11ef64453acfdf918125634dd8d53d52/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c20a295978ebd753ffeeca820dc9d6ee/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c20a295978ebd753ffeeca820dc9d6ee/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/61408858eeeb9d8ae41dd11b1f034359/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/61408858eeeb9d8ae41dd11b1f034359/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d244a50fbff1d3d9fdadff66659504e3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d244a50fbff1d3d9fdadff66659504e3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/66341db08019c156e6c88831fd0eb301/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/66341db08019c156e6c88831fd0eb301/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d1571bd54a65f6afe956e60b0fd9951e/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d1571bd54a65f6afe956e60b0fd9951e/AndroidManifest.xml:20:5-22:41
+INJECTED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:163:13-165:58
+	android:resource
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:165:17-56
+	android:name
+		ADDED from /Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/src/main/AndroidManifest.xml:164:17-67
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/756d83c2e783d76fe056e2302b6e722a/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/756d83c2e783d76fe056e2302b6e722a/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/903ce20ef420a3d88495507b0c0a1373/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/903ce20ef420a3d88495507b0c0a1373/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8ffedf30039e17996f70fcb5dd9e7979/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8ffedf30039e17996f70fcb5dd9e7979/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/11ef64453acfdf918125634dd8d53d52/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/11ef64453acfdf918125634dd8d53d52/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c20a295978ebd753ffeeca820dc9d6ee/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c20a295978ebd753ffeeca820dc9d6ee/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/61408858eeeb9d8ae41dd11b1f034359/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/61408858eeeb9d8ae41dd11b1f034359/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d244a50fbff1d3d9fdadff66659504e3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d244a50fbff1d3d9fdadff66659504e3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/66341db08019c156e6c88831fd0eb301/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/66341db08019c156e6c88831fd0eb301/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6ae91608dfe8b148ec6f9804bad42c75/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d1571bd54a65f6afe956e60b0fd9951e/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d1571bd54a65f6afe956e60b0fd9951e/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/jjun/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d1571bd54a65f6afe956e60b0fd9951e/AndroidManifest.xml:26:13-58

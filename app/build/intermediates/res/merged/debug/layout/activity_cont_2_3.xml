@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginBottom="8dp"
+    android:layout_marginEnd="8dp"
+    android:layout_marginStart="8dp"
+    android:layout_marginTop="8dp"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/face"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:src="@mipmap/ic_launcher"
+        android:layout_marginTop="10dp"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/control_eye"
+        app:layout_constraintRight_toLeftOf="@id/face"
+        app:layout_constraintTop_toBottomOf="@id/face"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="15dp"
+        android:src="@mipmap/ic_launcher"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/controller_mouth"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="15dp"
+        app:layout_constraintLeft_toRightOf="@id/face"
+        app:layout_constraintTop_toBottomOf="@id/face"
+        android:src="@mipmap/ic_launcher"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="눈"
+        android:textSize="40dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        app:layout_constraintLeft_toRightOf="@id/control_eye"
+        app:layout_constraintTop_toTopOf="@id/control_eye"
+        android:layout_marginLeft="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="입"
+        android:textSize="40dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        app:layout_constraintRight_toLeftOf="@id/controller_mouth"
+        app:layout_constraintTop_toTopOf="@id/controller_mouth"
+        android:layout_marginRight="10dp"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/eye"
+        app:layout_constraintRight_toRightOf="@id/face"
+        app:layout_constraintLeft_toLeftOf="@id/face"
+        app:layout_constraintTop_toTopOf="@id/face"
+        android:src="@mipmap/ic_launcher"
+        android:layout_marginTop="30dp"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/mouth"
+        app:layout_constraintRight_toRightOf="@id/face"
+        app:layout_constraintLeft_toLeftOf="@id/face"
+        app:layout_constraintBottom_toBottomOf="@id/face"
+        android:src="@mipmap/ic_launcher"
+        android:layout_marginBottom="30dp"/>
+
+</android.support.constraint.ConstraintLayout>

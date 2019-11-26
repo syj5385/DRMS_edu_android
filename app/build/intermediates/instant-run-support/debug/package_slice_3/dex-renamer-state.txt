@@ -1,0 +1,4 @@
+#Fri Jun 15 04:39:20 KST 2018
+base.0=/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(education)/Android/DRMS(Education)_2/app/build/intermediates/transforms/dexMerger/debug/22
+path.0=classes.dex
+renamed.0=classes.dex
